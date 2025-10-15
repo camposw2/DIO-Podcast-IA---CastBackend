@@ -1,0 +1,47 @@
+🎧 Cast Backend: “Python no Back-end — O que você precisa dominar”
+
+Duração: ~3 minutos
+Tom: descontraído, educativo e direto ao ponto
+Host: Wagner Leite
+
+🎬 [Abertura – 0:00 a 0:30]
+
+🎵 (Trilha leve de fundo
+
+HOST:
+“Seja muito bem-vindo ao Cast Backend! Eu sou o Wagner Leite, e hoje a gente vai falar sobre o coração de muita aplicação moderna: o back-end em Python.
+Se você está começando na área, ou quer entender o que realmente precisa dominar pra ser um bom programador back-end, esse episódio é pra você.”
+
+💡 [Bloco 1 – 0:30 a 1:30] — A base do back-end
+
+HOST:
+“Primeiro, vamos falar de fundamentos.
+Pra trabalhar bem com back-end em Python, você precisa dominar estruturas de dados, como listas, dicionários e tuplas — elas são a base de tudo.
+Depois, entenda bem funções e escopo, porque é nelas que mora a lógica do seu código: entradas, saídas e reutilização.
+E claro, aprenda a lidar com exceções e erros — saber prever falhas e tratá-las de forma elegante é o que diferencia um dev iniciante de um profissional.”
+
+⚙️ [Bloco 2 – 1:30 a 2:15] — Frameworks e APIs
+
+HOST:
+“Agora, vamos subir de nível.
+No dia a dia, o back-end vive de frameworks — os mais usados são o Django e o FastAPI.
+Com eles, você cria rotas, autenticação, acessa bancos de dados e constrói APIs robustas em pouco tempo.
+E falando em APIs, saber trabalhar com requisições HTTP e formatos como JSON é essencial — afinal, é assim que o front-end conversa com o seu código.”
+
+🧠 [Bloco 3 – 2:15 a 2:45] — Banco de Dados e Boas Práticas
+
+HOST:
+“Não dá pra falar de back-end sem falar de dados.
+Aprenda SQL e como conectar Python a bancos como PostgreSQL ou SQLite usando ORMs, como o SQLAlchemy.
+E nunca se esqueça: escreva código limpo, com boas práticas e versionamento no GitHub.
+Seu código precisa ser legível, testável e escalável.”
+
+🎤 [Encerramento – 2:45 a 3:00]
+
+HOST:
+“E aí, pronto pra encarar o mundo do back-end com Python?
+Se curtiu esse episódio, compartilha com aquele amigo que também quer mergulhar no universo do desenvolvimento.
+Eu sou o Wagner Leite, e esse foi mais um CodeFlow Cast.
+Até o próximo episódio, e... que o código esteja com você!”
+
+🎵 (Trilha de encerramento)
